@@ -12,7 +12,7 @@ O objetivo principal foi explorar dados relacionados à área de **Data Science*
 - Análises sobre **senioridade** e **faixa salarial** de profissionais da área em diferentes regiões do mundo  
 
 ## 🛠️ Tecnologias Utilizadas  
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Python** (Pandas, Matplotlib, Seaborn)  
 - **Jupyter Notebook** para exploração e análises  
 - **Plotly/Dash** para dashboards interativos  
 - **Streamlit** para deploy 
